@@ -2,5 +2,10 @@ Cold and dry, but everything is my favourite colour
 The two moons may be a problem for Wolfman
 But the mummy will appreciate the lack of humidity
 I am considering Venus as a base
+<<<<<<< HEAD
 This line added to Wolfman's copy	
 
+=======
+This line added to Wolfman's copy
+And a different one
+>>>>>>> 64d046aba04e8a1b22907753281ea21dd5de03b6
